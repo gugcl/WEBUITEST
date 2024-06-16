@@ -1,0 +1,6 @@
+email:
+  smtpserver: "smtp.163.com"
+  username: "gcl1570213065@163.com"
+  # password: "vbkewxdssuicgigj"
+  password: 'TJSZUSRZCDBYYOWV'  # 发送邮箱用户名密码,密码是163客户端授权密码
+  receiver: '13770980654@163.com' #邮件发送多人
