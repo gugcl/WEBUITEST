@@ -2,6 +2,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.common.exceptions import NoSuchElementException
 from Function.LogUtils import logger
 import subprocess
+import configparser
 
 
 class BaseElement:
